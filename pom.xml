@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.andresa.builder</groupId>
 	<artifactId>andresa-builder</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>andresa-builder</name>
 	<description>Estudo de caso Java Builders</description>
 
